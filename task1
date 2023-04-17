@@ -1,0 +1,19 @@
+Contributors:
+
+Git (in a git repository) identifies authors and committers by email address. Github users can associate email addresses with their accounts. When a user's set of email addresses is found in the commit history of a github repo, github marks that user as a contributor.
+
+Contributors:
+
+Git (in a git repository) identifies authors and committers by email address. Github users can associate email addresses with their accounts. When a user's set of email addresses is found in the commit history of a github repo, github marks that user as a contributor.
+
+GH Enterprise docs seem to be consistent with contributors only being associated with email addresses.
+Collaborators
+
+A user that has defined permissions in a github repo is marked as a collaborator. These permissions can vary and do not need to be the commit bit. A random org I am a member of shows the following options presently:
+
+    read
+    write
+    admin
+    issue triage
+    non-admin manager
+
